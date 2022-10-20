@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
         - name: httpd-container
-          image: httpd:latest
+          image: baconadmiral/my_static_page:latest
           ports:
             - containerPort: 80
