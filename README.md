@@ -5,4 +5,4 @@
 * `kubectl create namespace httpd-namespace`
 * `kubectl apply -f deployment.yaml`
 * `kubectl apply -f service.yaml`
-* `kubectl scale --replicas=26 -f deeployment.yaml`
+* `kubectl scale --replicas=26 -f deployment.yaml`
