@@ -17,7 +17,7 @@ spec:
         app: httpd_app
     spec:
       containers:
-        - name: httpd-container
-          image: httpd:latest
+        - name: 
+          image: 
           ports:
-            - containerPort: 80
+            - containerPort: 
